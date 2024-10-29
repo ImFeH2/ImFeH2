@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImFeH2
 - 👀 I’m interested in Python & Rust
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me i@feh2.im
 - 😄 Pronouns: ...
