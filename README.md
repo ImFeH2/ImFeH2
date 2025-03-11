@@ -7,7 +7,6 @@
 
 </div>
 
-- 🔭 Working on [ImI](https://github.com/ImFeH2/imi)
 - 🌱 Learning **Rust & Kubernetes**
 - 🔐 Background in **Cryptography**
 - 📝 Writing at [feh2.im](https://www.feh2.im)
