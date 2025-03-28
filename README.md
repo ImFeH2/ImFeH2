@@ -1,4 +1,4 @@
-# <div align="center">Hi, I'm FeH2 👋</div>
+# <div align="center">Hi, This is ImFeH2 👋</div>
 
 <div align="center">
 
@@ -36,12 +36,6 @@
 </a>&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="vite" width="40" height="40"/>
 </a>
 
 ### DevOps & Tools
