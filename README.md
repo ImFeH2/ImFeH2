@@ -7,17 +7,7 @@
 
 </div>
 
-- 🌱 Learning **Rust & Kubernetes**
-- 🔐 Background in **Cryptography**
-- 📝 Writing at [feh2.im](https://www.feh2.im)
-
-## Tech Stack
-
 <div align="center">
-
-<div style="margin: 20px 0">
-
-### Languages
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -32,30 +22,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 
-### DevOps & Tools
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://redis.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-</a>
-
-</div>
-
-</div>
-
-## Stats
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ImFeH2&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImFeH2&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</div>
+
 </div>
 
 <div align="center">
