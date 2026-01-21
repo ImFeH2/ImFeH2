@@ -1,5 +1,3 @@
-# <div align="center">Hi, This is ImFeH2 👋</div>
-
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-feh2.im-4f46e5?style=flat-square)](https://www.feh2.im)
@@ -14,9 +12,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 </div>
-
-<!--
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ImFeH2/count.svg" />
-</div>
--->
